@@ -1,2 +1,2 @@
 # resepSederhana
-buat tugas lepkom
+buat lepkom
